@@ -3,6 +3,8 @@ Experiment in training a simple Tensorflow model using Python, exporting it and 
 
 Included is an Android project that uses the C code through the NDK to recognize digits drawn on the screen.
 
+![android-sample-gif](https://thumbs.gfycat.com/AlertAjarAnnelida-size_restricted.gif)
+
 The network is trained to recognise digits 0-9 using the MNIST dataset.
 It only has one convolution layer and the hyperparameters are not really well tuned. Don't expect to achieve good results with this.
 
